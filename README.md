@@ -1,4 +1,4 @@
-## SmartID — Multi‑Modal Identity Verification (Face + OCR)
+## VeriScan — AI‑Based Biometric Verification System (Face + OCR)
 
 ### Why this exists (Problem)
 Onboarding and KYC flows need to verify that a person is who they claim to be. Manual checks are slow and error‑prone. This project demonstrates an automated, privacy‑respecting pipeline combining face similarity and OCR‑based ID parsing to validate identity quickly.
