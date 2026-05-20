@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Environment
+.env
+
+# Images (optional: ignore to avoid committing sensitive samples)
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.gif
+
+# Misc
+*.sqlite3
+*.db
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Tesseract installer
+*.exe 
